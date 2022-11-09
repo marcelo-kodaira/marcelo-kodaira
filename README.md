@@ -43,7 +43,7 @@
 #### Tools
 <div>
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
- <img height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
+ <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-plain.svg" />
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
