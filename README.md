@@ -32,6 +32,7 @@
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+ <a href="https://typeorm.io/" target="_blank"> <img align="left" alt="TypeORM" width="65px" src="https://raw.githubusercontent.com/gustavonobreza/Gustavonobreza/main/images/TypeORM.png"/></a>
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
 
