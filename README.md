@@ -38,7 +38,7 @@
 ## My Stats
 <div align="center">
  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=marcelo-kodaira&count_private=true&show_icons=true&theme=codeSTACKr" />
- <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-kodaira&theme=codeSTACKr&langs_count=5" />
+ <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-kodaira&theme=codeSTACKr&langs_count=3" />
 </div>
           
 #### Tools
