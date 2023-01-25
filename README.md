@@ -32,6 +32,7 @@
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+ <img height="60" width="80" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" />
  <img height="60" width="80" src="https://raw.githubusercontent.com/gustavonobreza/Gustavonobreza/main/images/TypeORM.png"/>
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
