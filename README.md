@@ -23,6 +23,7 @@
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/styled-components.svg" />
 </div>
 
 #### Back-end
@@ -41,7 +42,7 @@
 ## My Stats
 <div align="center">
  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=marcelo-kodaira&count_private=true&show_icons=true&theme=codeSTACKr" />
- <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-kodaira&theme=codeSTACKr&langs_count=5" />
+ <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-kodaira&theme=codeSTACKr&langs_count=3" />
 </div>
           
 #### Tools
