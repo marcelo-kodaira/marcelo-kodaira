@@ -39,7 +39,7 @@
  <img height="60" width="80" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" />
  <img height="60" width="80" src="https://raw.githubusercontent.com/gustavonobreza/Gustavonobreza/main/images/TypeORM.png"/>
  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
- <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+ <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
  
 </div>
 
