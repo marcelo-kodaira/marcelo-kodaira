@@ -11,7 +11,8 @@
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/php-original.svg" />
+ <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/c#-origina.svg" />
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  
 </div>
